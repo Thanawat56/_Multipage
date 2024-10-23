@@ -1,0 +1,14 @@
+.App-container{
+  border: 1px solid black;
+  width: 1020px;
+  border: 1px dashed rgb(0, 0, 0);
+  width : 1020px;
+  margin: auto;
+  padding: 1rem;
+}
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
